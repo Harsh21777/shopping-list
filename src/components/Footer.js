@@ -4,9 +4,19 @@ const Footer = () => {
   return (
     <footer style={styles.footer}>
       <p>&copy; 2024 Stylish App. All rights reserved.</p>
+      <nav>
+        <a href="/">Home</a> | 
+        <a href="/about">About</a> | 
+        <a href="/contact">Contact</a> | 
+        <a href="/privacy">Privacy Policy</a> | 
+        <a href="/terms">Terms of Service</a> | 
+        <a href="https://github.com/yourusername/shopping-list-app" target="_blank" rel="noopener noreferrer">GitHub Repository</a> | 
+        <a href="/feedback">Feedback</a>
+      </nav>
     </footer>
   );
 };
+
 
 const styles = {
   footer: {
