@@ -10,7 +10,7 @@ const Footer = () => {
         <a href="/contact">Contact</a> | 
         <a href="/privacy">Privacy Policy</a> | 
         <a href="/terms">Terms of Service</a> | 
-        <a href="https://github.com/yourusername/shopping-list-app" target="_blank" rel="noopener noreferrer">GitHub Repository</a> | 
+        <a href="https://github.com/Harsh21777/shopping-list" target="_blank" rel="noopener noreferrer">GitHub Repository</a> | 
         <a href="/feedback">Feedback</a>
       </nav>
     </footer>
