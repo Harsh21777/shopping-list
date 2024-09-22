@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer style={styles.footer}>
-      <p>&copy; 2024 Stylish App. All rights reserved.</p>
+      <p>&copy; 2024 Shopping App. All rights reserved.</p>
       <nav>
         <a href="/">Home</a> | 
         <a href="/about">About</a> | 
